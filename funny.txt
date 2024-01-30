@@ -1,1 +1,1 @@
-<?PHP echo "funny"; ?>
+<?PHP echo hostname; ?>
